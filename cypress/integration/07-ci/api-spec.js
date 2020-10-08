@@ -7,6 +7,8 @@ import {
   visit
 } from '../../support/utils'
 
+//comment
+
 // testing TodoMVC server API
 describe('via API', () => {
   beforeEach(resetDatabase)
